@@ -1,3 +1,9 @@
 nltk
 scikit-learn
 streamlit
+
+ultralytics
+opencv-python
+numpy
+filterpy
+scipy
